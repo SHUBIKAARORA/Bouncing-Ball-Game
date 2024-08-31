@@ -1,1 +1,2 @@
 # Bouncing-Ball-Game
+The BouncingBallGame class is a Java Swing application where a ball bounces around a play area and the player controls a paddle at the bottom. The paddle can be moved left and right using arrow keys to catch the balls. When a ball is caught, the score increases; if a ball misses the paddle and hits the bottom of the play area, the game ends. Players can add new balls with a button or restart the game with another button. The game uses a Timer to regularly update ball positions and check for collisions.
